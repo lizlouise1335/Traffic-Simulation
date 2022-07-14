@@ -1,3 +1,5 @@
+(We were the first of two groups out of five total groups to submit a successful final program)
+
 TRAFFIC SIMULATION
 Version: 1.0
 Time Period: ~10hrs
