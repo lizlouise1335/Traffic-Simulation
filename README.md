@@ -1,4 +1,4 @@
-(We were the first group to submit a successful final program. Only one other group out the remaining four groups also submitted a successful project.)
+We were the first and only group to submit a successful final program.
 
 TRAFFIC SIMULATION
 Version: 1.0
