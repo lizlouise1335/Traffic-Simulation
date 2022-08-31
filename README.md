@@ -2,7 +2,7 @@ We were the first and only group to submit a successful final program.
 
 TRAFFIC SIMULATION
 Version: 1.0
-Time Period: ~30 hrs each person
+Time Period: 3 weeks
 Coders: Ioana Cristescu, Liz Smith, Kevorc Ibrahimian, and Alex Shaw
 
 FRONT END OF THE PROGRAM:
